@@ -6,8 +6,8 @@ Interested Topic
 * Speech recognition
 * Multimodality
  
-[BLOG :] (tistory.com/gyeonh/)
-[NOTION :] (notion.so/gyeonh/)
-[GITHUB :] (github.com/gyeonh/)
+[BLOG :] (https://tistory.com/gyeonh/)
+[NOTION :] (https://notion.so/gyeonh/)
+[GITHUB :] (https://github.com/gyeonh/)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgyeonh%2Fhit-counter&count_bg=%23FF8E8E&title_bg=%23F3B9B9&icon=&icon_color=%23FFAB00&title=%F0%9F%A4%9E&edge_flat=false)](https://hits.seeyoufarm.com)
