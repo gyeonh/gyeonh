@@ -6,7 +6,7 @@ Interested Topic
 * Speech recognition
 * Multimodality
  
-BLOG : (https://gyeonh.tistory.com)
+BLOG : (https://gyeonh.tistory.com/)
 
 NOTION : (https://notion.so/gyeonh/)
 
