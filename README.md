@@ -2,9 +2,8 @@
 Hi, there🖐 This is Jiyeon Hwang.
 
 Interested Topic
-* Natural Language Processing
-* Speech recognition
 * Multimodality
+* Natural Language Processing
  
 BLOG : (https://gyeonh.tistory.com/)
 
