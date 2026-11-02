@@ -2,12 +2,11 @@
 Hi, there🖐 This is Jiyeon Hwang.
 
 Interested Topic
-* Multimodality
+* Multimodal Learning
+* Video Understanding
 * Natural Language Processing
- 
-BLOG : (https://gyeonh.tistory.com/)
 
-NOTION : (https://notion.so/gyeonh/)
+NOTION : (https://app.notion.com/p/gyeonh/98bb9df1c80083809e5b013dfdde2c43?source=copy_link)
 
 GITHUB : (https://github.com/gyeonh/)
 
